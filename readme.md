@@ -180,9 +180,6 @@ System.out.println(postService.getPostsByUserId(1));
 ```
 
 ---
-## Projeto utilizado
-[ftd_multiples_db.zip](/.attachments/ftd_multiples_db-37b8bd26-0fc5-4a73-9a8f-45a60ff4a6af.zip)
----
 
 ## ✅ Considerações Técnicas
 

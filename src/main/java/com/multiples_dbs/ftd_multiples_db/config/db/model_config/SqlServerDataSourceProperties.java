@@ -1,4 +1,4 @@
-package com.multiples_dbs.ftd_multiples_db.config.db.mode_config;
+package com.multiples_dbs.ftd_multiples_db.config.db.model_config;
 
 import lombok.Getter;
 import lombok.Setter;

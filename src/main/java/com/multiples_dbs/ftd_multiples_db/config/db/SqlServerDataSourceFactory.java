@@ -2,7 +2,7 @@ package com.multiples_dbs.ftd_multiples_db.config.db;
 
 import javax.sql.DataSource;
 
-import com.multiples_dbs.ftd_multiples_db.config.db.mode_config.SqlServerDataSourceProperties;
+import com.multiples_dbs.ftd_multiples_db.config.db.model_config.SqlServerDataSourceProperties;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 
 public class SqlServerDataSourceFactory {

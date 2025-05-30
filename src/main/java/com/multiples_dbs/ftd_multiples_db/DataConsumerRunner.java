@@ -1,7 +1,7 @@
 package com.multiples_dbs.ftd_multiples_db;
 
 import com.multiples_dbs.ftd_multiples_db.config.db.SqlServerDataSourceFactory;
-import com.multiples_dbs.ftd_multiples_db.config.db.mode_config.SqlServerDataSourceProperties;
+import com.multiples_dbs.ftd_multiples_db.config.db.model_config.SqlServerDataSourceProperties;
 import com.multiples_dbs.ftd_multiples_db.domain.mysql.service.ProfileService;
 import com.multiples_dbs.ftd_multiples_db.domain.mysql.service.UserService;
 import com.multiples_dbs.ftd_multiples_db.domain.sqlserver.repository.PostRepository;

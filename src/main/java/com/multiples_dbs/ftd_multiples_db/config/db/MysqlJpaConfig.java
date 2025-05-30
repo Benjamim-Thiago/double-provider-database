@@ -1,6 +1,6 @@
 package com.multiples_dbs.ftd_multiples_db.config.db;
 
-import com.multiples_dbs.ftd_multiples_db.config.db.mode_config.MysqlDataSourceProperties;
+import com.multiples_dbs.ftd_multiples_db.config.db.model_config.MysqlDataSourceProperties;
 import jakarta.persistence.EntityManagerFactory;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
